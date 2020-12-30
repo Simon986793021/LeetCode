@@ -1,4 +1,5 @@
-package com.leetcode;
+package LeetCode.com.leetcode;
+
 public class FindRepeatNumber{
     public static void main (String argss[]){
         int test []=new int [] {2,3,1,1,4,2,6};
